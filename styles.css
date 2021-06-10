@@ -1,0 +1,21 @@
+body {
+    background-color: #F5F5DC;
+}
+
+img {
+    width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answer {
+    border: solid 3px black;
+    padding: 5px;
+    text-align: center;
+    display: none;
+}
+
+h1 {
+    text-align: center;
+}
